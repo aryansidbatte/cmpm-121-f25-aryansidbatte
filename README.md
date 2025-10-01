@@ -41,4 +41,4 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 1. Go to your repository's Settings → Pages
 2. Under "Source", select "GitHub Actions"
 3. The workflow will automatically deploy on pushes to the `main` branch
-4. Your site will be published at `https://<your-github-username>.github.io/<repository-name>/`
+4. Your site will be published at `https://aryansidbatte.github.io/cmpm-121-f25-aryansidbatte/`
