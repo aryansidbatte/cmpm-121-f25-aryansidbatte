@@ -42,3 +42,5 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 2. Under "Source", select "GitHub Actions"
 3. The workflow will automatically deploy on pushes to the `main` branch
 4. Your site will be published at `https://aryansidbatte.github.io/cmpm-121-f25-aryansidbatte/`
+
+I removed the linter comment, added counter functionality, and updated the html to reflect the change.
